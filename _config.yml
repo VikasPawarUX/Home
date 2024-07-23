@@ -2,5 +2,7 @@ title: Vikas Pawar
 logo: /assets/ProfilePicH.png
 #show_downloads: true 
 #description: User Experience Designer
-Button: LinkedIn
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 theme: jekyll-theme-minimal
