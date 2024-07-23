@@ -1,4 +1,4 @@
 # User Experience Designer 
 
 ### About Me
-I'm Vikas, a User Experience Designer focused on creating products for healthcare and entertainment services. I'm passionate about my work, and in my free time, I love designing and developing engaging games.
+I'm Vikas, a User Experience Designer focusing on creating products for healthcare and entertainment services. I'm passionate about designing and developing games, and I love spending my free time working on engaging games.
