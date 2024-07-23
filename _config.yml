@@ -1,6 +1,5 @@
 title: Vikas Pawar
 logo: /assets/ProfilePicH.png
-#show_downloads: true 
+show_downloads: No 
 #description: User Experience Designer
-site.url: https://www.linkedin.com/feed/
 theme: jekyll-theme-minimal
