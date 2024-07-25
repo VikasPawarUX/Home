@@ -10,5 +10,5 @@ I'm Vikas, a User Experience Designer focusing on creating products for healthca
 - [Mobile Programming](https://www.mobileprogramming.com)
 - [Indium Software](https://www.indiumsoftware.com)  
 - [Synqua Games](https://synqua.com)
-- [Ec-intractive]
+- [Ec-intractive](https://www.mobygames.com/company/6791/ec-interactive-ltd/)
   
