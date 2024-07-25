@@ -5,6 +5,6 @@
 I'm Vikas, a User Experience Designer focusing on creating products for healthcare and entertainment services. I'm passionate about designing and developing games, and I love spending my free time working on engaging games.
 
 ### Work Experience 
--  MSD | UXD Manager Singapore (Feb 2018 - Present)
--  Sierra Solutions | Lead UXD Singapore (Jan 2017 - Feb 2018)
+MSD | UXD Manager Singapore (Feb 2018 - Present)
+Sierra Solutions | Lead UXD Singapore (Jan 2017 - Feb 2018)
   
