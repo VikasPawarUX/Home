@@ -5,7 +5,7 @@
 I'm Vikas, a User Experience Designer focusing on creating products for healthcare and entertainment services. I'm passionate about designing and developing games, and I love spending my free time working on engaging games.
 
 ### Work Experience 
-- MSD  
+- [MSD](https://www.msd.com)
 - Sierra Solutions  
 - Mobile Programming
 - Indium Software  
