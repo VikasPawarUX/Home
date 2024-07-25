@@ -2,7 +2,7 @@
 
 
 ### About Me
-I'm Vikas, a User Experience Designer focusing on creating products for healthcare and entertainment services. I'm passionate about designing and developing games, and I love spending my free time working on engaging games.
+With over 15 years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating tools that help patients and healthcare providers make informed decisions. I've worked on telemedicine platforms and patient portals, always focusing on user needs. I'm good at researching, designing, and prototyping, and I work well with teams. As a game enthusiast, I also create fun and engaging games using Game Maker, Buildbox, and Unity.
 
 ### Work Experience 
 - [MSD](https://www.msd.com)
