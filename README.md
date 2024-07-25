@@ -6,7 +6,7 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 
 ### Work Experience 
-- [MSD](https://www.msd.com)
+- [MSD](https://www.msd.com) (_Feb 2018 - Current-)
 - [Sierra Solutions](https://sierra.sg)  
 - [Mobile Programming](https://www.mobileprogramming.com)
 - [Indium Software](https://www.indiumsoftware.com)  
