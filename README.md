@@ -17,5 +17,5 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 ### UX Case Study
 With over 15 years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating digital solutions that help patients and healthcare providers make informed decisions.
 
--[Figma](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy)
+- [Figma](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy)
   
