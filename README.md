@@ -6,9 +6,9 @@ I'm Vikas, a User Experience Designer focusing on creating products for healthca
 
 ### Work Experience 
 - [MSD](https://www.msd.com)
-- Sierra Solutions  
-- Mobile Programming
-- Indium Software  
-- Synqua Games
-- Ec-intractive
+- [Sierra Solutions](https://sierra.sg)  
+- [Mobile Programming](https://www.mobileprogramming.com)
+- [Indium Software](https://www.indiumsoftware.com)  
+- [Synqua Games](https://synqua.com)
+- [Ec-intractive]
   
