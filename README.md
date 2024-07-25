@@ -6,4 +6,5 @@ I'm Vikas, a User Experience Designer focusing on creating products for healthca
 
 ### Work Experience 
 -  MSD | UXD Manager Singapore (Feb 2018 - Present)
+-  Sierra Solutions | Lead UXD Singapore (Jan 2017 - Feb 2018)
   
