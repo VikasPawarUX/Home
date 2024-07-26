@@ -8,12 +8,6 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 <br>
 
-| Total Projects | Web | Mobile | Mobile
-| :---:   | :---: | :---: | :---: |
-| 25 + | 10 + | 5 + | 10 + |
-
-<br>
-
 ### Work Experience 
 
 1. [MSD](https://www.msd.com) (_Feb 2018 - Current_)
