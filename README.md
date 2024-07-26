@@ -40,8 +40,17 @@ Welcome to the thrilling world of "Last Pocket," where your strategic prowess an
 Welcome to "Who Let the Chickens Out?" a fun and challenging game that puts a unique spin on solving a feathery neighbor problem! Embark on a hilarious adventure where you'll use your skills and precision to deal with pesky chickens. It's time to turn those annoying cluckers into delicious chicken leg pieces.
 >[App Store](https://apps.apple.com/in/app/who-let-the-chickens-out/id6450364324) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.wlco)
 
-#### [Color Sign](https://apps.apple.com/in/app/color-sign/id6443664049)
+#### Color Sign
 Color Sign challenges your mind and test your reflexes.How To Play? Tap on the screen to stop the arrow where the color matches. The faster you match, the higher your score. Sounds easy? Can you score 20? Race against time as you compete for the best score on the global leaderboard.
+>[App Store](https://apps.apple.com/in/app/color-sign/id6443664049) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.colorsio)
+
+#### Toss King
+Toss King is a physics-based game. Just tap on the screen to drop a coin into the target. The more accurate and sweet the toss, the more levels you will beat. It's super simple to learn but hard to master! If you think you are smart enough and quick enough, give it a try; it won't be as easy as it sounds.
+>[App Store](https://apps.apple.com/th/app/toss-king/id1635994532) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.tossrey)
+
+#### Frantic Fall
+Frantic Fall! is a physics-based puzzler that is a unique blend of careful planning and hilarious fails. Your objective is simple: Rotate the world to land the orb in the cup.
+>[App Store](https://apps.apple.com/th/app/frantic-fall/id1591348188) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.trickyfall)
 
 
   
