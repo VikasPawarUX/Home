@@ -26,7 +26,7 @@ At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kio
 > [App Store](https://apps.apple.com/in/app/jiotv-live-tv-catch-up/id1060965205) . [Google Play](https://play.google.com/store/apps/details?id=com.jio.jioplay.tv&hl=en_SG&gl=US) . [Case Study](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy?node-id=14-66&scaling=min-zoom)
 
 
-#### 2 Spell Sense
+#### 2 ``` Spell Sense ```
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
