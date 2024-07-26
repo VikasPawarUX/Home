@@ -15,8 +15,10 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 
 ### Projects
-#### [JioTv - UX Case Study](https://www.msd.com)
+#### JioTv - UX Case Study
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
+- [AppStore](https://www.msd.com) 
+
 
 #### [Spell Sense](https://apps.apple.com/in/app/spell-sense/id6502336550)
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not
