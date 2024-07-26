@@ -21,6 +21,10 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 ### Projects
 
+| Header1 | Header2 | Header3 |
+| — — — | — — — — — -| — — — — — |
+| R1C1 | R1C2 | R1C3 |
+
 #### JioTv 
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
 > [App Store](https://apps.apple.com/in/app/jiotv-live-tv-catch-up/id1060965205) . [Google Play](https://play.google.com/store/apps/details?id=com.jio.jioplay.tv&hl=en_SG&gl=US) . [Case Study](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy?node-id=14-66&scaling=min-zoom)
