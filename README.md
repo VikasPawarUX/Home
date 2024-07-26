@@ -22,6 +22,6 @@ At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kio
 
 ### Projects
 
-Name: ####Spell Sense
+#### Spell Sense
 Release: _9th Sep 2024_
   
