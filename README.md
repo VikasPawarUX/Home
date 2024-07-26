@@ -15,16 +15,16 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 
 ### Projects
-#### JioTv
+#### ► JioTv
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
 > [App Store](https://apps.apple.com/in/app/jiotv-live-tv-catch-up/id1060965205) . [Google Play](https://play.google.com/store/apps/details?id=com.jio.jioplay.tv&hl=en_SG&gl=US) . [Case Study](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy?node-id=14-66&scaling=min-zoom)
 
 
-#### Spell Sense
+#### ► Spell Sense
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
-#### Tilt 'n' Tumble
+#### ► Tilt 'n' Tumble
 Beat the Leaderboard: Rack up points and dominate the global rankings in this arcade-inspired game! Inspired by the classic arcade spirit, Tilt 'n' Tumble helps players relax and concentrate without the need for extensive tutorials.
 >[App Store](https://apps.apple.com/in/app/tilt-n-tumble/id6504755276)
 
