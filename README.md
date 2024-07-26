@@ -15,7 +15,7 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 
 ### UX Case Study
-During my tenure at Mobileprograamin LLC, I had the opportunity to work with Reliance Industries Ltd. During this time, I worked on several mobile and kiosk machine projects, including JioTV. I was involved in the initial design phase of JioTV with three other team members. You can read more about the JioTV application and my involvement in the attached case study.
+At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
 
 [JioTv](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy)
   
