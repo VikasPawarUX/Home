@@ -16,9 +16,6 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 ### Projects
 
-#### [JioTv- UX case study](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy)
-At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
-
-#### [Spell Sense](https://apps.apple.com/in/app/spell-sense/id6502336550)
-Release: _9th Sep 2024_
+> [![JioTv- UX case study](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy)] 
+> At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
   
