@@ -17,7 +17,7 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 ### Projects
 #### JioTv - UX Case Study
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
-- [AppStore](https://www.msd.com) 
+- [AppStore](https://www.msd.com) | [Google Play](https://www.msd.com) | [Google Play](https://www.msd.com) 
 
 
 #### [Spell Sense](https://apps.apple.com/in/app/spell-sense/id6502336550)
