@@ -1,5 +1,7 @@
 ## User Experience Designer 
+
 <br>
+
 ### About Me
 
 With over 15 years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating digital solutions that help patients and healthcare providers make informed decisions. I've worked on telemedicine platforms and patient portals, always focusing on user needs. I'm good at researching, designing, and prototyping. As a game enthusiast, I also create fun and engaging games using Game Maker, Buildbox, and Unity.
@@ -56,5 +58,8 @@ Toss King is a physics-based game. Just tap on the screen to drop a coin into th
 Frantic Fall! is a physics-based puzzler that is a unique blend of careful planning and hilarious fails. Your objective is simple: Rotate the world to land the orb in the cup.
 >[App Store](https://apps.apple.com/th/app/frantic-fall/id1591348188) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.trickyfall)
 
+<br>
+
+### Achievements
 
   
