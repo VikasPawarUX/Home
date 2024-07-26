@@ -23,9 +23,24 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 <br>
 
-| Total Projects | Web Projects | Mobile Projects | Mobile Projects
-| :---:   | :---: | :---: | :---: |
-| 25 + | 10 + | 5 + | 10 + |
+<table>
+  <thead>
+    <tr>
+      <th>Total Projects</th>
+      <th>Web Projects</th>
+      <th>Mobile Projects</th>
+      <th>Other Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>25 +</td>
+      <td>10 +</td>
+      <td>5 +</td>
+      <td>10 +</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
