@@ -2,10 +2,12 @@
 
 
 ### About Me
+_______
 With over 15 years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating digital solutions that help patients and healthcare providers make informed decisions. I've worked on telemedicine platforms and patient portals, always focusing on user needs. I'm good at researching, designing, and prototyping. As a game enthusiast, I also create fun and engaging games using Game Maker, Buildbox, and Unity.
 
 
 ### Work Experience 
+_______
 1. [MSD](https://www.msd.com) (_Feb 2018 - Current_)
 2. [Sierra Solutions](https://sierra.sg) (_Aug 2015 - Jan 2018_)
 3. [Mobile Programming](https://www.mobileprogramming.com) (_Mar 2013 - Jul 2015_)
@@ -15,6 +17,7 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 
 ### Projects
+_______
 #### 1 JioTv
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
 > [App Store](https://apps.apple.com/in/app/jiotv-live-tv-catch-up/id1060965205) . [Google Play](https://play.google.com/store/apps/details?id=com.jio.jioplay.tv&hl=en_SG&gl=US) . [Case Study](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy?node-id=14-66&scaling=min-zoom)
