@@ -1,7 +1,5 @@
 ## User Experience Designer 
-
 <br>
-
 ### About Me
 
 With over 15 years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating digital solutions that help patients and healthcare providers make informed decisions. I've worked on telemedicine platforms and patient portals, always focusing on user needs. I'm good at researching, designing, and prototyping. As a game enthusiast, I also create fun and engaging games using Game Maker, Buildbox, and Unity.
