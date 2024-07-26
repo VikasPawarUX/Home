@@ -24,6 +24,8 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 
 [![Click Me](https://img.shields.io/badge/Click-Me-brightblue)](https://www.example.com)
+[![Click Me](https://img.shields.io/badge/Click%20Me-blue)](https://www.example.com)
+
 
 
 #### JioTv 
