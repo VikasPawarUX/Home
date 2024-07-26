@@ -23,7 +23,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 #### JioTv 
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
-###[![App Store](https://img.shields.io/badge/App%20Store-brightgreen)](https://www.example.com)
+### [![App Store](https://img.shields.io/badge/App%20Store-brightgreen)](https://www.example.com)
 [![Google Play](https://img.shields.io/badge/Google%20Play-blue)](https://www.example.com)
 [![Case Study](https://img.shields.io/badge/Case%20Study-yellow)](https://www.example.com)
 
