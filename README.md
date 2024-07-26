@@ -16,7 +16,10 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 ### Projects
 
-> > [!NOTE]
+> [!NOTE]
 >At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
 
   
