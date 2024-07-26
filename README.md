@@ -30,8 +30,8 @@ Welcome to the thrilling world of "Last Pocket," where your strategic prowess an
 #### [Who Let the Chickens Out?](https://apps.apple.com/in/app/who-let-the-chickens-out/id6450364324)
 Welcome to "Who Let the Chickens Out?" a fun and challenging game that puts a unique spin on solving a feathery neighbor problem! Embark on a hilarious adventure where you'll use your skills and precision to deal with pesky chickens. It's time to turn those annoying cluckers into delicious chicken leg pieces.
 
-#### [Who Let the Chickens Out?](https://apps.apple.com/in/app/who-let-the-chickens-out/id6450364324)
-Welcome to "Who Let the Chickens Out?" a fun and challenging game that puts a unique spin on solving a feathery neighbor problem! Embark on a hilarious adventure where you'll use your skills and precision to deal with pesky chickens. It's time to turn those annoying cluckers into delicious chicken leg pieces.
+#### [Color Sign](https://apps.apple.com/in/app/color-sign/id6443664049)
+Color Sign challenges your mind and test your reflexes.How To Play? Tap on the screen to stop the arrow where the color matches. The faster you match, the higher your score. Sounds easy? Can you score 20? Race against time as you compete for the best score on the global leaderboard.
 
 
   
