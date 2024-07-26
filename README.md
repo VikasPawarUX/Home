@@ -7,11 +7,11 @@ With over 15 years in IT, I design user-friendly digital products for healthcare
 
 ### Work Experience 
 - [MSD](https://www.msd.com) (_Feb 2018 - Current_)
-- [Sierra Solutions](https://sierra.sg)  
-- [Mobile Programming](https://www.mobileprogramming.com)
-- [Indium Software](https://www.indiumsoftware.com)  
-- [Synqua Games](https://synqua.com)
-- [Ec-intractive](https://www.mobygames.com/company/6791/ec-interactive-ltd/)
+- [Sierra Solutions](https://sierra.sg) (_Feb 2018 - Current_)
+- [Mobile Programming](https://www.mobileprogramming.com) (_Feb 2018 - Current_)
+- [Indium Software](https://www.indiumsoftware.com) (_Feb 2018 - Current_)
+- [Synqua Games](https://synqua.com) (_Feb 2018 - Current_)
+- [Ec-intractive](https://www.mobygames.com/company/6791/ec-interactive-ltd/) (_Feb 2018 - Current_)
 
 
 ### UX Case Study
