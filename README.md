@@ -23,11 +23,9 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 #### JioTv 
 At Mobileprograamin LLC, I worked with Reliance Industries Ltd on mobile and kiosk projects, including JioTV. I was part of the initial design team for JioTV. More details are in the attached case study.
-> [![Click Me](https://img.shields.io/badge/Click%20Me-brightgreen)](https://www.example.com)
-[![Click Me](https://img.shields.io/badge/Click%20Me-blue)](https://www.example.com)
-[![Click Me](https://img.shields.io/badge/Click%20Me-yellow)](https://www.example.com)
-[![Click Me](https://img.shields.io/badge/Click%20Me-lightgray)](https://www.example.com)
-
+> [![App Store](https://img.shields.io/badge/Click%20Me-brightgreen)](https://www.example.com)
+[![Google Play](https://img.shields.io/badge/Click%20Me-blue)](https://www.example.com)
+[![Case Study](https://img.shields.io/badge/Click%20Me-yellow)](https://www.example.com)
 
 #### Spell Sense
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
