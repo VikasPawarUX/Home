@@ -25,7 +25,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 ### Game Projects
 
-#### Spell Sense <sup>  9th Sep 2024 </sup>
+#### Spell Sense ![Completed](https://img.shields.io/badge/Completed-brightgreen)
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
