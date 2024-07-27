@@ -29,7 +29,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
-<iframe width="560" height="315" src="https://youtu.be/B2wbwtQl8Wc?si=P9qHY9UL-_TtBbGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### 3 Tilt 'n' Tumble
 Beat the Leaderboard: Rack up points and dominate the global rankings in this arcade-inspired game! Inspired by the classic arcade spirit, Tilt 'n' Tumble helps players relax and concentrate without the need for extensive tutorials.
