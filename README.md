@@ -89,4 +89,8 @@ Frantic Fall! is a physics-based puzzler that is a unique blend of careful plann
 
 ### Achievements
 
+ Total Projects | Web Projects | Mobile Projects | Mobile Projects
+| :---:   | :---: | :---: | :---: |
+| 25 + | 10 + | 5 + | 10 + |
+
   
