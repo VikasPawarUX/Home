@@ -23,7 +23,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 <br>
 
-### Projects
+### Game Projects
 
 #### Spell Sense
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
