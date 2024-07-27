@@ -29,7 +29,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -37,7 +37,7 @@ Welcome to our captivating word game where spelling prowess meets addictive game
 Beat the Leaderboard: Rack up points and dominate the global rankings in this arcade-inspired game! Inspired by the classic arcade spirit, Tilt 'n' Tumble helps players relax and concentrate without the need for extensive tutorials.
 >[App Store](https://apps.apple.com/in/app/tilt-n-tumble/id6504755276)
 
-<iframe width="500" height="281" src="https://www.youtube.com/embed/O0y83i5f7-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/O0y83i5f7-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -45,7 +45,7 @@ Beat the Leaderboard: Rack up points and dominate the global rankings in this ar
 Embark on an engaging intellectual journey with "Trial by Trivia." Test your knowledge and decision-making skills in a captivating environment where every card presents a unique statement. As you progress, the challenge intensifies, keeping you hooked with intriguing facts and compelling questions.
 >[App Store](https://apps.apple.com/us/app/trial-by-trivia/id6469746681) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.trialbytrivia)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DkWHmqZbRFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube.com/embed/DkWHmqZbRFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
