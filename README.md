@@ -2,7 +2,7 @@
 
 <br>
 
-### About Me
+### About Me -
 
 With over 15+ years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating digital solutions that help patients and healthcare providers make informed decisions. I've worked on telemedicine platforms and patient portals, always focusing on user needs. I'm good at researching, designing, and prototyping. As a game enthusiast, I also create fun and engaging games using Game Maker, Buildbox, and Unity.
 
@@ -12,7 +12,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 <br>
 
-### Work Experience 
+### Work Experience -
 
 1. [MSD](https://www.msd.com) (_Feb 2018 - Current_)
 2. [Sierra Solutions](https://sierra.sg) (_Aug 2015 - Jan 2018_)
@@ -23,7 +23,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 <br>
 
-### Game Projects
+### Game Projects -
 
 #### Spell Sense
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
