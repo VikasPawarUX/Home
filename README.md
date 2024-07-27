@@ -8,7 +8,6 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 [![Click Me](https://img.shields.io/badge/LinkedIn%20-blue)](https://www.example.com)
 [![Click Me](https://img.shields.io/badge/Click%20Me-yellow)](https://www.example.com)
-[![Click Me](https://img.shields.io/badge/Click%20Me-purple)](https://www.example.com)
 
 <br>
 
