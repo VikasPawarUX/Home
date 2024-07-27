@@ -8,7 +8,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 
 [![Click Me](https://img.shields.io/badge/Social-LinkedIn%20-blue)](https://www.linkedin.com/in/vikaspawarux/)
 [![Click Me](https://img.shields.io/badge/Mail-Contact%20Me-yellow)](mailto:pawar.vikas036@gmail.com)
-[![Click Me](https://img.shields.io/badge/UX-Case%20Study-lightgray)](https://www.example.com)
+[![Click Me](https://img.shields.io/badge/UX-Case%20Study-lightgray)](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy?node-id=14-66&t=JvJRGRjZkqbmwH1z-1)
 
 <br>
 
