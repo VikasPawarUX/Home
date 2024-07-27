@@ -33,7 +33,7 @@ Welcome to our captivating word game where spelling prowess meets addictive game
 
 <br>
 
-#### 3 Tilt 'n' Tumble
+#### 3 Tilt 'n' Tumble ![Pending](https://img.shields.io/badge/Latest-yellow)
 Beat the Leaderboard: Rack up points and dominate the global rankings in this arcade-inspired game! Inspired by the classic arcade spirit, Tilt 'n' Tumble helps players relax and concentrate without the need for extensive tutorials.
 >[App Store](https://apps.apple.com/in/app/tilt-n-tumble/id6504755276)
 
