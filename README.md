@@ -37,7 +37,7 @@ Welcome to our captivating word game where spelling prowess meets addictive game
 Beat the Leaderboard: Rack up points and dominate the global rankings in this arcade-inspired game! Inspired by the classic arcade spirit, Tilt 'n' Tumble helps players relax and concentrate without the need for extensive tutorials.
 >[App Store](https://apps.apple.com/in/app/tilt-n-tumble/id6504755276)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O0y83i5f7-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/O0y83i5f7-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
