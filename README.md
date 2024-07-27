@@ -6,6 +6,8 @@
 
 With over 15+ years in IT, I design user-friendly digital products for healthcare, gaming, and entertainment. I love creating digital solutions that help patients and healthcare providers make informed decisions. I've worked on telemedicine platforms and patient portals, always focusing on user needs. I'm good at researching, designing, and prototyping. As a game enthusiast, I also create fun and engaging games using Game Maker, Buildbox, and Unity.
 
+[![Click Me](https://img.shields.io/badge/UX-Case%20Study-lightgray)](https://www.figma.com/proto/eA0MNBJyNrUybksCng1hrw/JioTv-CaseStudy?node-id=14-66&t=JvJRGRjZkqbmwH1z-1)
+
 <br>
 
 ### Work Experience 
