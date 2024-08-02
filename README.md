@@ -27,7 +27,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -35,7 +35,7 @@ Welcome to our captivating word game where spelling prowess meets addictive game
 Beat the Leaderboard: Rack up points and dominate the global rankings in this arcade-inspired game! Inspired by the classic arcade spirit, Tilt 'n' Tumble helps players relax and concentrate without the need for extensive tutorials.
 >[App Store](https://apps.apple.com/in/app/tilt-n-tumble/id6504755276)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/O0y83i5f7-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0y83i5f7-w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -43,7 +43,7 @@ Beat the Leaderboard: Rack up points and dominate the global rankings in this ar
 Embark on an engaging intellectual journey with "Trial by Trivia." Test your knowledge and decision-making skills in a captivating environment where every card presents a unique statement. As you progress, the challenge intensifies, keeping you hooked with intriguing facts and compelling questions.
 >[App Store](https://apps.apple.com/us/app/trial-by-trivia/id6469746681) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.trialbytrivia)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/DkWHmqZbRFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DkWHmqZbRFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -51,7 +51,7 @@ Embark on an engaging intellectual journey with "Trial by Trivia." Test your kno
 Welcome to the thrilling world of "Last Pocket," where your strategic prowess and quick thinking will be put to the ultimate test! Arrange the wooden planks with a tap, creating a maze of reflections and angles to guide the ball towards victory. Ten distinct elements add a twist to every level, keeping you on your toes and your mind engaged.
 >[App Store](https://apps.apple.com/th/app/last-pocket/id6445848461) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.oddeightball)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/hnZZYVm8fE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hnZZYVm8fE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -59,7 +59,7 @@ Welcome to the thrilling world of "Last Pocket," where your strategic prowess an
 Welcome to "Who Let the Chickens Out?" a fun and challenging game that puts a unique spin on solving a feathery neighbor problem! Embark on a hilarious adventure where you'll use your skills and precision to deal with pesky chickens. It's time to turn those annoying cluckers into delicious chicken leg pieces.
 >[App Store](https://apps.apple.com/in/app/who-let-the-chickens-out/id6450364324) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.wlco)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/k7oq5-LU5bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k7oq5-LU5bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -67,7 +67,7 @@ Welcome to "Who Let the Chickens Out?" a fun and challenging game that puts a un
 Color Sign challenges your mind and test your reflexes.How To Play? Tap on the screen to stop the arrow where the color matches. The faster you match, the higher your score. Sounds easy? Can you score 20? Race against time as you compete for the best score on the global leaderboard.
 >[App Store](https://apps.apple.com/in/app/color-sign/id6443664049) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.colorsio)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/rRvRzfAejFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRvRzfAejFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -75,7 +75,7 @@ Color Sign challenges your mind and test your reflexes.How To Play? Tap on the s
 Toss King is a physics-based game. Just tap on the screen to drop a coin into the target. The more accurate and sweet the toss, the more levels you will beat. It's super simple to learn but hard to master! If you think you are smart enough and quick enough, give it a try; it won't be as easy as it sounds.
 >[App Store](https://apps.apple.com/th/app/toss-king/id1635994532) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.tossrey)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/vZdf8pxlhzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vZdf8pxlhzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -83,7 +83,7 @@ Toss King is a physics-based game. Just tap on the screen to drop a coin into th
 Frantic Fall! is a physics-based puzzler that is a unique blend of careful planning and hilarious fails. Your objective is simple: Rotate the world to land the orb in the cup.
 >[App Store](https://apps.apple.com/th/app/frantic-fall/id1591348188) . [Google Play](https://play.google.com/store/apps/details?id=com.vikaspawar.trickyfall)
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/gTqK7XPo-v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gTqK7XPo-v8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
