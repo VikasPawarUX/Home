@@ -27,7 +27,7 @@ With over 15+ years in IT, I design user-friendly digital products for healthcar
 Welcome to our captivating word game where spelling prowess meets addictive gameplay! Immerse yourself in a world of over 10,000 words, each presented on beautifully designed cards. Your task is simple: swipe right if the spelling is correct and left if it's not.
 >[App Store](https://apps.apple.com/in/app/spell-sense/id6502336550)
 
-[//]: <><iframe width="560" height="315" src="https://www.youtube.com/embed/B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!---<><iframe width="560" height="315" src="https://www.youtube.com/embed/B2wbwtQl8Wc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
 <br>
 
